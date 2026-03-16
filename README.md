@@ -1,21 +1,9 @@
 # Donation Management System
-
+<img src="output.png" alt="Italian Trulli">
 A **Donation Management System** is a software application designed to manage and streamline the process of handling donations for non-profit organizations, charities, and fundraising campaigns.
 
 This platform helps organizations efficiently **track donations, manage donors, organize fundraising campaigns, and generate financial reports**. The goal is to improve transparency, reduce manual work, and maintain accurate financial records.
 ---
-<style>
-  .full-screen-bg {
-    background-image: url('output.png');
-    background-size: cover; /* Scales image to fill the screen */
-    background-position: center; /* Centers the image */
-    background-repeat: no-repeat;
-    height: 100vh; /* Takes 100% of the viewport height */
-    width: 100%;
-  }
-</style>
-
-<div class="full-screen-bg"></div>
 
 
 
